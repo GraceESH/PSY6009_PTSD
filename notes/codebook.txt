@@ -1,0 +1,24 @@
+Data source:
+The raw data was obtained from improving access to psychological therapies services across the uk, it contains session by session GAD-7 data collected for routine outcome monitoring. 
+
+The raw data set cannot be shared to GitHub due to NHS ethical guidlines and consent around the collected data.
+But should access be granted it was in the "raw" folder.  
+
+Variable description and units:
+
+CaseID : is the unique identifier for each row recorded. 
+
+Refferal date : the date the patient was refered to the service 
+
+Date of intial assessment : first assessment date 
+
+Session_number@Step : treatment session number 
+
+GAD7_@S1 : GAD-7 scores at the first session 
+
+GAD7_RCSI : reliable and clinically significant change in GAD7 scores
+
+Time : session number centered to 0 as 0 is baseline scores of GAD7 
+
+
+
